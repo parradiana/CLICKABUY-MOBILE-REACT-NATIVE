@@ -1,4 +1,4 @@
-# CLICKABUY MOBILE ✈
+# CLICKABUY MOBILE
 Version mobile de clickabuy.
 # Trabajo realizado
 
